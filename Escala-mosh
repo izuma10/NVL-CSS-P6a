@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<head>
+      <html>
+      <meta charset="utf_8">
+      <title>Dureza materiales</title>
+</head>
+<body>
+      <table style="border= 50px black"  width="50" heigth="50"  border=1px solid black>
+              <tr>
+                  <td style="border= 1px black">Dureza</td>
+                  <td style="border= 1px black">Mineral</td>
+                  <td style="border= 1px black">Se raya con/a</td>
+                  <td style="border= 1px black">Composición química</td>
+              </tr>
+              <tr>
+                  <td style="background-colour:#FFFFFF">
+                  <p>1</<p>
+                  </td>
+                  <td style="border= 1px black">Talco  border=1px solid black</td>
+                  <td style="border= 1px black">Se puede rayar fácilmente con la uña  border=1px solid black</td>
+                  <td style="border= 1px black">Mg3Si4O10(OH)2</td>
+              </tr>
+              <tr>
+                  <td style="background-colour:#E6E6E6">
+                  <p>2</<p>
+                  </td>
+                  <td style="border= 1px black">Yeso</td>
+                  <td style="border= 1px black">Se puede rayar con la uña con más dificultad</td>
+                  <td style="border= 1px black">CaSO4·2H2O</td>
+              </tr>
+              <tr>
+                  <td style="background-colour:#CCCCCC">
+                  <p>3</<p>
+                  </td>
+                  <td style="border= 1px black">Calcita</td>
+                  <td style="border= 1px black">Se puede rayar con una moneda de cobre</td>
+                  <td style="border= 1px black">CaCO3</td>
+              </tr>
+              <tr>
+                  <td style="background-colour:#B3B3B3">
+                  <p>4</<p>
+                  </td>
+                  <td style="border= 1px black">Fluorita</td>
+                  <td style="border= 1px black">Se puede rayar con un cuchillo de acero</td>
+                  <td style="border= 1px black">CaF2</td>
+              </tr>
+              <tr>
+                  <td style="background-colour:#999999">
+                  <p>5</<p>
+                  </td>
+                  <td style="border= 1px black">Apatito</td>
+                  <td style="border= 1px black">Se puede rayar difícilmente con un cuchillo</td>
+                  <td style="border= 1px black">Ca5(PO4)3(OH-,Cl-,F-)l</td>
+              </tr>
+              <tr>
+                  <td style="background-colour:#808080">
+                  <p>6</<p>
+                  </td>
+                  <td style="border= 1px black">Ortosa</td>
+                  <td style="border= 1px black">Se puede rayar con una lija para el acero</td>
+                  <td style="border= 1px black">KAlSi3O8</td>
+              </tr>
+              <tr>
+                  <td style="background-colour:#666666">
+                  <p>7</<p>
+                  </td>
+                  <td style="border= 1px black">Cuarzo</td>
+                  <td style="border= 1px black">Raya el vidrio</td>
+                  <td style="border= 1px black">SiO2</td>
+              </tr>
+              <tr>
+                  <td style="background-colour:#4C4C4C">
+                  <p>8</<p>
+                  </td>
+                  <td style="border= 1px black">Topacio</td>
+                  <td style="border= 1px black">Rayado por herramientas de carburo de wolframio</td>
+                  <td style="border= 1px black">Al2SiO4(OH-,F-)2</td>
+              </tr>
+              <tr>
+                  <td style="background-colour:#333333">
+                  <p>9</<p>
+                  </td>
+                  <td style="border= 1px black">Corindón</td>
+                  <td style="border= 1px black">Rayado por herramientas de carburo de silicio</td>
+                  <td style="border= 1px black">Al2O3</td>
+              </tr>
+              <tr>
+                  <td style="background-colour:#191919">
+                  <p>10</<p>
+                  </td>
+                  <td style="border= 1px black">Diamante</td>
+                  <td style="border= 1px black">El material más duro en esta escala (rayado por otro diamante).</td>
+                  <td style="border= 1px black">C</td>
+              </tr>
+</body>
+</html>
